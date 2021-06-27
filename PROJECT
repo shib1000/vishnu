@@ -1,0 +1,8 @@
+domain: vishnu.k8s
+layout: go.kubebuilder.io/v3
+projectName: vishnu
+repo: github.com/shib1000/vishnu
+version: 3-alpha
+plugins:
+  manifests.sdk.operatorframework.io/v2: {}
+  scorecard.sdk.operatorframework.io/v2: {}
